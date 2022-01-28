@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
+  title: '地心引力',
+  author: '大核桃',
   email: 'i@craigary.net',
   link: 'https://walnutz.xyz',
   description: 'This gonna be an awesome website.',
