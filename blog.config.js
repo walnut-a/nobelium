@@ -1,7 +1,7 @@
 const BLOG = {
   title: '地心引力',
   author: '大核桃',
-  email: 'i@craigary.net',
+  email: 'zhaowork74@gmail.com',
   link: 'https://walnutz.xyz',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
