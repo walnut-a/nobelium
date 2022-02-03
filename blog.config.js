@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '地心引力',
+  title: '太空噪音',
   author: '大核桃',
   email: 'zhaowork74@gmail.com',
   link: 'https://walnutz.xyz',
